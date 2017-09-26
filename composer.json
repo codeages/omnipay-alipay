@@ -1,8 +1,9 @@
 {
-  "name": "lokielse/omnipay-alipay",
+  "name": "wenqinruan/omnipay-alipay",
   "type": "library",
   "description": "Alipay gateway for Omnipay payment processing library",
   "keywords": [
+    "php53",
     "alipay",
     "gateway",
     "merchant",
@@ -11,12 +12,12 @@
     "payment",
     "purchase"
   ],
-  "homepage": "https://github.com/lokielse/omnipay-alipay",
+  "homepage": "https://github.com/wenqinruan/omnipay-alipay",
   "license": "MIT",
   "authors": [
     {
-      "name": "Loki Else",
-      "email": "lokielse@gmail.com"
+      "name": "Wenqin Ruan",
+      "email": "ruanwenqinrl@gmail.com"
     }
   ],
   "autoload": {
